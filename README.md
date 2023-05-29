@@ -1,3 +1,4 @@
 На основе ноутбука из лекции, настроить и обучить полносвязную прямую нейронную сеть классифицирвоать объекты из датасета cifar10 (https://keras.io/api/datasets/cifar10/). Желательно добиться как можно большего значения accuracy.  Можно менять функции активации, функцию ошибки (loss), типы слоев, количество нейронов в слоях, количество слоев, оптимизаторы, количество эпох и т.д. Нельзя менять метрику и тип нейронной сети. 
-![image](https://github.com/kirflex/CV2/assets/64078476/4aa598b9-91f6-4fe3-8664-2b9589be4244)
-![image](https://github.com/kirflex/CV2/assets/64078476/2cd67652-f3ea-4c74-a082-3b1ad7be9896)
+![image](https://github.com/kirflex/CV2/assets/64078476/1524a0ff-3b12-4f0b-97ea-fcf8760b30b9)
+![image](https://github.com/kirflex/CV2/assets/64078476/7e6aaeaa-5b91-4ae9-a01f-92715defc805)
+![image](https://github.com/kirflex/CV2/assets/64078476/892b7f0b-ccd3-4f62-9a02-d2e8c52488fa)
